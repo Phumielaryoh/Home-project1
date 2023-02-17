@@ -1,0 +1,32 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    height: 100vh;    
+    align-items: center;
+}
+
+.container {
+    background-color: #FFF;
+    width: 300px;
+    height: 500px;
+    padding: 10px;    
+    border-radius: 10px;
+}
+
+
+img{
+    width:100%;
+    border-radius: 10px;
+}
+
+h2 {
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: gray;
+}
